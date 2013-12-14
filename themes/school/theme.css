@@ -1,0 +1,298 @@
+h1, h2, h3, h4, h5, h6 {
+	color: #7fba00;
+}
+
+blockquote {
+	border-left: 5px solid #7fba00;
+}
+
+.panel-title {
+	color: white;
+}
+
+div.article-content{
+	margin-top: 20px;
+}
+
+div.content {
+	margin-top: 20px;
+}
+
+nav {
+	margin-top: 10px;
+}
+
+body {
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2.article-title {
+	font-size: 22px;
+	line-height: 25px;
+}
+
+a.author-link:hover, a.author-link:visited {
+	text-decoration: none;
+}
+
+div.annotation {
+	margin-top: 24px;
+}
+
+div.article {
+	border-bottom: 1px solid #eeeeee;
+}
+
+div.stats {
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+div.stats .col-md-4, div.stats .col-md-2, div.stats .col-md-7 {
+	float: none;
+	display: inline-block;
+}
+
+div.stats .number {
+	display: inline-block;
+	float: none;
+}
+
+div.last-issue div.heading {
+	font-size: 14px;
+	color: #7fba00;
+}
+
+div.last-issue {
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+}
+
+div.last-issue div.year {
+	font-size: 30px;
+	color: #359914;
+	font-weight: bold
+}
+
+div.last-issue div.month {
+	font-size: 14px;
+	color: #359914;
+	font-weight: bold
+}
+
+div.current-issue h3 {
+	font-size: 20px;
+}
+
+div.number {
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+div.number-frame {
+	border: 1px solid #eeeeee;
+	margin-top: 3px;
+	font-size: 20px;
+	color: #359914;
+}
+
+div.number div.title {
+	font-size: 14px;
+	color: #7fba00;
+}
+
+div.title div.title-inner {
+	width: 1000px;
+	text-align: left;
+}
+
+div.topic div.title {
+	overflow: hidden;
+}
+
+div.topic {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+div.contact {
+	padding: 10px 10px 10px 10px;
+	text-align: left;
+}
+
+div.contact h3 {
+	text-align: right;
+}
+
+ul.contacts li {
+	list-style-type: none;
+}
+
+div.sidebar {
+	padding-right: 0px;
+}
+
+.slide {
+	background-attachment: fixed;
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding: 0;
+}
+
+#slide1 {
+	background-color: #ffffff;
+	background-image: url(slide1_bg.jpg);
+	background-size: cover !important;
+	width: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	background-position: 0 0 !important;
+}
+
+.padding_slide1 {
+	padding: 244px 0 60px 0;
+}
+
+.effect_2 {
+	background: url(effect_2.png) repeat left top;
+}
+
+.container {
+	margin: auto;
+}
+
+.effects {
+	position: relative;
+}
+
+.effects_1 {
+	background: url(effect_1.png) no-repeat left top;
+	position: absolute;
+	top: -169px;
+	left: -175px;
+	/*width: 474px;*/
+	height: 196px;
+	z-index: 99;
+}
+
+#slide7 {
+	background-image: url(slide7_bg.jpg);
+	background-position: 0 0 !important;
+	text-align: center;
+	background-size: cover !important;
+	width: 100%;
+	float: left;
+}
+
+.padding_slide7 {
+	padding: 286px 0 244px;
+}
+
+.parallax-title {
+	font-size: 70px;
+	color: white;
+	text-shadow: 2px 1px #000000;
+}
+
+div.pagination {
+	width: 100%;
+	height: 40px;
+}
+
+div.pagination-back {
+	text-align: left;
+	font-size: 20px;
+	color: #7fba00;
+}
+
+div.pagination-next {
+	text-align: right;
+	font-size: 20px;
+	color: #7fba00;
+}
+
+div.pagination-middle {
+	color: white;
+	background: #3fb618;
+	height: 100%;
+	text-align: center;
+}
+
+div.footer {
+	width: 100%;
+	float: left;
+}
+
+div.footer .panel-heading, div.footer .panel-heading a {
+	color: white;
+}
+
+div.keywords .label-success {
+	background: #3fb618;
+	display: inline-block;
+}
+
+div.keywords a {
+	color: white;
+}
+
+div.keywords {
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+}
+
+div.like {
+	padding-top: 20px;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	text-align: right;
+	color: #3fb618;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+div.comments {
+	padding: 0 0 0 0;
+	float: left;
+}
+
+div.comment-author{
+	text-align: right;
+}
+
+div.user-comment{
+	float: left;
+	padding: 0 0 0 0;
+}
+
+div.comment-date{
+	color: #3fb618;
+}
+
+.footer{
+	margin-top: 20px;
+}
+
+.form-signin {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+.author-profile{
+	margin: 0 0 0 0 !important;
+}
+
+.vertical-resize{
+	resize: vertical;
+}
